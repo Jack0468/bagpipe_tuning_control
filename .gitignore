@@ -1,0 +1,40 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+*.mltbx
+helpsearch*/
+codegen/
+slprj/
+sccprj/
+*.slxc
+*.autosave
+*.slx.r*
+*.mdl.r*
+*.slxp
+*.smv
+*.rtw
+*.mat.bak
+octave-workspace
+
+# Generated outputs
+*.log
+*.tmp
+
+# LaTeX build files (report)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
